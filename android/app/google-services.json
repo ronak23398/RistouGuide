@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "924559689012",
+    "firebase_url": "https://ristouguide-8aa1d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ristouguide-8aa1d",
+    "storage_bucket": "ristouguide-8aa1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924559689012:android:3abd9d63c9d9cbe6de9161",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzAmgiaL3jo7GvU_TjHpxiLOxUnBGUow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
